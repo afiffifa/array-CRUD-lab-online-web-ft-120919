@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(cars, names)
   cars = ["Ford", "Toyota", "Honda"]
-  
+  cars << "Mazda"
   
 end
 
